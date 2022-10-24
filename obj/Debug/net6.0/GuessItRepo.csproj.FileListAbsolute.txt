@@ -1,0 +1,15 @@
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GuessIt/GuessItRepo/bin/Debug/net6.0/GuessItRepo
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GuessIt/GuessItRepo/bin/Debug/net6.0/GuessItRepo.deps.json
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GuessIt/GuessItRepo/bin/Debug/net6.0/GuessItRepo.runtimeconfig.json
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GuessIt/GuessItRepo/bin/Debug/net6.0/GuessItRepo.dll
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GuessIt/GuessItRepo/bin/Debug/net6.0/GuessItRepo.pdb
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GuessIt/GuessItRepo/obj/Debug/net6.0/GuessItRepo.csproj.AssemblyReference.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GuessIt/GuessItRepo/obj/Debug/net6.0/GuessItRepo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GuessIt/GuessItRepo/obj/Debug/net6.0/GuessItRepo.AssemblyInfoInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GuessIt/GuessItRepo/obj/Debug/net6.0/GuessItRepo.AssemblyInfo.cs
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GuessIt/GuessItRepo/obj/Debug/net6.0/GuessItRepo.csproj.CoreCompileInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GuessIt/GuessItRepo/obj/Debug/net6.0/GuessItRepo.dll
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GuessIt/GuessItRepo/obj/Debug/net6.0/refint/GuessItRepo.dll
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GuessIt/GuessItRepo/obj/Debug/net6.0/GuessItRepo.pdb
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GuessIt/GuessItRepo/obj/Debug/net6.0/GuessItRepo.genruntimeconfig.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/GuessIt/GuessItRepo/obj/Debug/net6.0/ref/GuessItRepo.dll
