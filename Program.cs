@@ -11,9 +11,9 @@
 //When the number is guessed correct, the game will end.
 
 
-//Peer Reviewed by:
-//Date:
-//Review:
+//Peer Reviewed by:Amir Smith
+//Date:10/25/22
+//Review:just need the option to try again
 
 
 int guessNumb;
